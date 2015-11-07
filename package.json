@@ -1,0 +1,20 @@
+{
+  "name": "EasyRequire",
+  "version": "0.0.1",
+  "description": "A module to load js files in large node projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://Pandaros@github.com/Pandaros/easyRequire.git"
+  },
+  "author": "Lukas Graessle (lukas.graessle@web.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pandaros/easyRequire/issues"
+  },
+  "homepage": "https://github.com/Pandaros/easyRequire",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "fs-extra": "^0.26.2"
+  }
+}
