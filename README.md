@@ -37,3 +37,6 @@ var yourModule = easyRequire.getModule('./../.../../../app/service/yourModule.js
 var easyRequire = require('easyRequire');
 var yourModule = easyRequire.getModule('yourModule');
 ```
+
+###TODO
+ * Add a filter for modules to be loaded via easyRequire
