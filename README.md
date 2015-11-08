@@ -28,7 +28,7 @@ var yourModule = easyRequire.getModule('yourModule');
 ###Bevor
 
 ```javascript
-var yourModule = easyRequire.getModule('./../.../../../app/service/yourModule.js');
+var yourModule = require('./../.../../../app/service/yourModule.js');
 ```
 
 ###After

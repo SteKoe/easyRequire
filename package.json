@@ -1,8 +1,9 @@
 {
-  "name": "EasyRequire",
+  "name": "easyrequire",
   "version": "0.0.1",
   "description": "A module to load js files in large node projects",
   "main": "index.js",
+  "keywords": ["require"],
   "repository": {
     "type": "git",
     "url": "https://Pandaros@github.com/Pandaros/easyRequire.git"
